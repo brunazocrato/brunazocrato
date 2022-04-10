@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @brunazocrato
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning python applied to the Data domain
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me bruna.zocrato@gmail.com
